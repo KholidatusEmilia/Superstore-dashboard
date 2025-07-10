@@ -1,0 +1,10 @@
+
+streamlit
+pandas
+plotly
+scikit-learn
+fpdf
+xlsxwriter
+matplotlib
+openpyxl
+kaleido
